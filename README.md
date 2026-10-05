@@ -22,5 +22,5 @@ Desenvolvedor Frontend focado em construir interfaces modernas, responsivas e ac
 ---
 
 ### 🔗 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-morais-softdev)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcrismorais@hotmail.com)
