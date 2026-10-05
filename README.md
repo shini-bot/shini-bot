@@ -1,18 +1,18 @@
-# Olá, eu sou o Gabriel Morais! 👋
+# Hi there, I'm Gabriel Morais! 👋
 
-Desenvolvedor Frontend focado em construir interfaces modernas, responsivas e acessíveis.
-
----
-
-### 🚀 Sobre mim
-- 🔭 Atualmente desenvolvendo projetos com **HTML, CSS e JavaScript**.
-- 📚 Estudando **Python** e frameworks/ferramentas Frontend (**React**, **Git/GitHub**).
-- 💼 Buscando oportunidades como Desenvolvedor Frontend Jr / Trainee / Estagiário.
-- ⚡ Curiosidade: Apaixonado por aprender novas tecnologias e resolver problemas com código.
+Frontend Engineer passionate about building modern, responsive, and accessible web interfaces.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🚀 About Me
+- 🔭 Currently building projects with **JavaScript (ES6+)**, **HTML5**, and **CSS3**.
+- 📚 Studying **React**, **Python**, and modern Frontend tooling.
+- 💼 Actively looking for full-time remote **Front-End Developer** opportunities worldwide.
+- ⚡ Fun fact: Passionate about continuous learning and solving real-world problems through clean code.
+
+---
+
+### 🛠️ Tech Stack & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,6 +21,6 @@ Desenvolvedor Frontend focado em construir interfaces modernas, responsivas e ac
 
 ---
 
-### 🔗 Conecte-se comigo
+### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-morais-softdev)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcrismorais@hotmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcrismorais@hotmail.com)
